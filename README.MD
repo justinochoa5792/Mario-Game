@@ -5,3 +5,6 @@ Two levels
 move forward:right arrow
 move back: left arrow
 jump space:bar
+
+deployed site:
+kaboom-mario.netlify.app
